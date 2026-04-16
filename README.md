@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor **Full Stack** com experiência na construção de projetos escaláveis. Formado em **Sistemas de Informação** pelo IFMG, com atuação em ambientes de Telecomunicações e Desenvolvimento Web.
+Desenvolvedor **Full Stack** com experiência na construção de projetos escaláveis. Formado em **Sistemas de Informação** pelo IFMG, com atuação em ambientes de Desenvolvimento Web.
 
 
 ## 🌐 Socials:
