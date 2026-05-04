@@ -3,7 +3,7 @@
 `FullStack Developer` · `Software Engineer`
 
 ### 💫 About Me:
-Desenvolvedor **Full Stack** com experiência na construção de projetos escaláveis. Formado em **Sistemas de Informação** pelo IFMG, com atuação em ambientes de Desenvolvimento Web.
+Full Stack Developer with experience building scalable projects. Graduated in Bachelor Degree Information Systems from IFMG, with experience in Web Development environments.
 
 ### Skills and Tools
 
