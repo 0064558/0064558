@@ -1,11 +1,11 @@
 ### Hello! I'm Rodrigo Alexandre!
 
-`FullStack Developer` · `Software Engineer`
+`Software Developer`
 
 ---
 
 ### About Me:
-Full Stack Developer with experience building scalable projects. Graduated in Bachelor Degree Information Systems from IFMG, with experience in Web Development environments.
+Software Developer with experience building scalable projects. Graduated in Bachelor Degree Information Systems from IFMG, with experience in Web Development environments.
 
 ---
 
