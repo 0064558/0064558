@@ -12,7 +12,7 @@ Software Developer with experience building scalable projects. Graduated in Bach
 ### Skills and Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,php,python,html,css,javascript,react,docker,postman,aws,vercel,postgresql,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,php,python,html,css,javascript,typescript,react,angular,docker,postman,aws,vercel,postgresql,mongodb,git,github" />
 </p>
 
 ---
